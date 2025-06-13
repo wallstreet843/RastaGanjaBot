@@ -1,0 +1,167 @@
+{
+  "users": {
+    "7550000963": {
+      "name": "Rasta",
+      "hits": 32,
+      "last_hit": 1749741254.1138787,
+      "daily_hits": 2,
+      "daily_date": "2025-06-12",
+      "streak": 3,
+      "best_streak": 3,
+      "achievements": [
+        "first_hit",
+        "group_leader",
+        "regular",
+        "speed_demon",
+        "daily_streak_3"
+      ],
+      "join_date": "2025-06-09T20:25:39.155625",
+      "hourly_hits": [
+        1749741254.1138787
+      ],
+      "total_sessions": 32,
+      "favorite_time": {
+        "20": 8,
+        "21": 7,
+        "23": 1,
+        "13": 2,
+        "15": 1,
+        "16": 9,
+        "18": 1,
+        "22": 1,
+        "1": 1,
+        "11": 1
+      },
+      "groups_participated": [
+        "-4633724865",
+        "-4937361974",
+        "-1001871797725",
+        "-4878143711"
+      ]
+    },
+    "8153953317": {
+      "name": "Yelon",
+      "hits": 5,
+      "last_hit": 1749669004.6983652,
+      "daily_hits": 1,
+      "daily_date": "2025-06-11",
+      "streak": 2,
+      "best_streak": 2,
+      "achievements": [
+        "first_hit",
+        "group_leader"
+      ],
+      "join_date": "2025-06-09T22:04:06.745872",
+      "hourly_hits": [
+        1749669004.6983652
+      ],
+      "total_sessions": 5,
+      "favorite_time": {
+        "22": 3,
+        "13": 1,
+        "15": 1
+      },
+      "groups_participated": [
+        "-4633724865"
+      ]
+    },
+    "7314095592": {
+      "name": "BraveDeen",
+      "hits": 1,
+      "last_hit": 1749689357.204921,
+      "daily_hits": 1,
+      "daily_date": "2025-06-11",
+      "streak": 0,
+      "best_streak": 0,
+      "achievements": [
+        "first_hit"
+      ],
+      "join_date": "2025-06-11T20:49:17.204921",
+      "hourly_hits": [
+        1749689357.204921
+      ],
+      "total_sessions": 1,
+      "favorite_time": {
+        "20": 1
+      },
+      "groups_participated": []
+    }
+  },
+  "groups": {
+    "-4633724865": {
+      "title": "Drain bot talk",
+      "total_hits": 19,
+      "members": {
+        "7550000963": {
+          "name": "Rasta",
+          "hits": 14,
+          "daily_hits": 11,
+          "daily_date": "2025-06-11",
+          "join_date": "2025-06-09T21:58:55.709175"
+        },
+        "8153953317": {
+          "name": "Yelon",
+          "hits": 5,
+          "daily_hits": 1,
+          "daily_date": "2025-06-11",
+          "join_date": "2025-06-09T22:04:06.745872"
+        }
+      },
+      "daily_hits": 12,
+      "daily_date": "2025-06-11",
+      "created_date": "2025-06-09T21:58:55.709175",
+      "last_activity": 1749689957.0010452
+    },
+    "-4937361974": {
+      "title": "test",
+      "total_hits": 1,
+      "members": {
+        "7550000963": {
+          "name": "Rasta",
+          "hits": 1,
+          "daily_hits": 1,
+          "daily_date": "2025-06-09",
+          "join_date": "2025-06-09T23:44:02.796065"
+        }
+      },
+      "daily_hits": 1,
+      "daily_date": "2025-06-09",
+      "created_date": "2025-06-09T23:44:02.796065",
+      "last_activity": 1749527042.796065
+    },
+    "-1001871797725": {
+      "title": "Flood Da Hood Breakdown House\ud83c\udfe0",
+      "total_hits": 1,
+      "members": {
+        "7550000963": {
+          "name": "Rasta",
+          "hits": 1,
+          "daily_hits": 1,
+          "daily_date": "2025-06-11",
+          "join_date": "2025-06-11T22:27:20.491599"
+        }
+      },
+      "daily_hits": 1,
+      "daily_date": "2025-06-11",
+      "created_date": "2025-06-11T22:27:20.490603",
+      "last_activity": 1749695240.4906037
+    },
+    "-4878143711": {
+      "title": "Puff Puff Pass",
+      "total_hits": 1,
+      "members": {
+        "7550000963": {
+          "name": "Rasta",
+          "hits": 1,
+          "daily_hits": 1,
+          "daily_date": "2025-06-12",
+          "join_date": "2025-06-12T01:37:52.467028"
+        }
+      },
+      "daily_hits": 1,
+      "daily_date": "2025-06-12",
+      "created_date": "2025-06-12T01:37:52.466024",
+      "last_activity": 1749706672.4660242
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "-4633724865": {
+    "title": "Drain bot talk",
+    "total_hits": 24,
+    "members": {
+      "7550000963": {
+        "name": "Rasta",
+        "hits": 19,
+        "daily_hits": 5,
+        "daily_date": "2025-06-12",
+        "join_date": "2025-06-09T21:58:55.709175"
+      },
+      "8153953317": {
+        "name": "Yelon",
+        "hits": 5,
+        "daily_hits": 1,
+        "daily_date": "2025-06-11",
+        "join_date": "2025-06-09T22:04:06.745872"
+      }
+    },
+    "daily_hits": 5,
+    "daily_date": "2025-06-12",
+    "created_date": "2025-06-09T21:58:55.709175",
+    "last_activity": 1749766150.0527005
+  },
+  "-4937361974": {
+    "title": "test",
+    "total_hits": 1,
+    "members": {
+      "7550000963": {
+        "name": "Rasta",
+        "hits": 1,
+        "daily_hits": 1,
+        "daily_date": "2025-06-09",
+        "join_date": "2025-06-09T23:44:02.796065"
+      }
+    },
+    "daily_hits": 1,
+    "daily_date": "2025-06-09",
+    "created_date": "2025-06-09T23:44:02.796065",
+    "last_activity": 1749527042.796065
+  },
+  "-1001871797725": {
+    "title": "Flood Da Hood Breakdown House\ud83c\udfe0",
+    "total_hits": 1,
+    "members": {
+      "7550000963": {
+        "name": "Rasta",
+        "hits": 1,
+        "daily_hits": 1,
+        "daily_date": "2025-06-11",
+        "join_date": "2025-06-11T22:27:20.491599"
+      }
+    },
+    "daily_hits": 1,
+    "daily_date": "2025-06-11",
+    "created_date": "2025-06-11T22:27:20.490603",
+    "last_activity": 1749695240.4906037
+  },
+  "-4878143711": {
+    "title": "Puff Puff Pass",
+    "total_hits": 1,
+    "members": {
+      "7550000963": {
+        "name": "Rasta",
+        "hits": 1,
+        "daily_hits": 1,
+        "daily_date": "2025-06-12",
+        "join_date": "2025-06-12T01:37:52.467028"
+      }
+    },
+    "daily_hits": 1,
+    "daily_date": "2025-06-12",
+    "created_date": "2025-06-12T01:37:52.466024",
+    "last_activity": 1749706672.4660242
+  }
+}
